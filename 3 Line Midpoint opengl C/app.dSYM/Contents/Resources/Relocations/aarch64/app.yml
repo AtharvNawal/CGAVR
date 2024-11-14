@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atharvnawal/Desktop/sem3-modul 4/CGAVR/3 Line Midpoint opengl C/app'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _drawLine, symObjAddr: 0x0, symBinAddr: 0x100003B78, symSize: 0x110 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _x1, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _y1, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _x2, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _y2, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offsetInCU: 0x9C, offset: 0x9C, size: 0x8, addend: 0x0, symName: _drawLine, symObjAddr: 0x0, symBinAddr: 0x100003B78, symSize: 0x110 }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x110, symBinAddr: 0x100003C88, symSize: 0x50 }
+  - { offsetInCU: 0x145, offset: 0x145, size: 0x8, addend: 0x0, symName: _init, symObjAddr: 0x160, symBinAddr: 0x100003CD8, symSize: 0x6C }
+  - { offsetInCU: 0x15A, offset: 0x15A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1CC, symBinAddr: 0x100003D44, symSize: 0x118 }
+...

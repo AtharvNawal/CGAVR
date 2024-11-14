@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atharvnawal/Desktop/sem3-modul 4/CGAVR/7 Wave (r+1) opengl C/app'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _plot, symObjAddr: 0x0, symBinAddr: 0x1000038DC, symSize: 0x58 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _pntX1, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _pntY1, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _r, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x87, offset: 0x87, size: 0x8, addend: 0x0, symName: _plot, symObjAddr: 0x0, symBinAddr: 0x1000038DC, symSize: 0x58 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: _myInit, symObjAddr: 0x58, symBinAddr: 0x100003934, symSize: 0x70 }
+  - { offsetInCU: 0xCE, offset: 0xCE, size: 0x8, addend: 0x0, symName: _midPointCircleAlgotwo, symObjAddr: 0xC8, symBinAddr: 0x1000039A4, symSize: 0x160 }
+  - { offsetInCU: 0x11C, offset: 0x11C, size: 0x8, addend: 0x0, symName: _midPointCircleAlgo, symObjAddr: 0x228, symBinAddr: 0x100003B04, symSize: 0x148 }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: _myDisplay, symObjAddr: 0x370, symBinAddr: 0x100003C4C, symSize: 0x100 }
+  - { offsetInCU: 0x19C, offset: 0x19C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x470, symBinAddr: 0x100003D4C, symSize: 0x118 }
+...
