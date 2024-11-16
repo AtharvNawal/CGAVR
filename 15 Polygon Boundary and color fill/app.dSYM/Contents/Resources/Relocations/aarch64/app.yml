@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atharvnawal/Desktop/sem3-modul 4/CGAVR/14 Polygon Boundary and color fill/app'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _generatePolygonPoints, symObjAddr: 0x0, symBinAddr: 0x1000038BC, symSize: 0x1C8 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _radius, symObjAddr: 0x580, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _centreX, symObjAddr: 0x584, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x70, offset: 0x70, size: 0x8, addend: 0x0, symName: _centreY, symObjAddr: 0x588, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _x, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _y, symBinAddr: 0x100008020, symSize: 0x0 }
+  - { offsetInCU: 0xC2, offset: 0xC2, size: 0x8, addend: 0x0, symName: _vertex, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: _generatePolygonPoints, symObjAddr: 0x0, symBinAddr: 0x1000038BC, symSize: 0x1C8 }
+  - { offsetInCU: 0xFD, offset: 0xFD, size: 0x8, addend: 0x0, symName: _lineDraw, symObjAddr: 0x1C8, symBinAddr: 0x100003A84, symSize: 0x4C }
+  - { offsetInCU: 0x14B, offset: 0x14B, size: 0x8, addend: 0x0, symName: _drawPolygon, symObjAddr: 0x214, symBinAddr: 0x100003AD0, symSize: 0x104 }
+  - { offsetInCU: 0x17D, offset: 0x17D, size: 0x8, addend: 0x0, symName: _fillPolygon, symObjAddr: 0x318, symBinAddr: 0x100003BD4, symSize: 0xA8 }
+  - { offsetInCU: 0x1CB, offset: 0x1CB, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x3C0, symBinAddr: 0x100003C7C, symSize: 0x48 }
+  - { offsetInCU: 0x1E0, offset: 0x1E0, size: 0x8, addend: 0x0, symName: _init, symObjAddr: 0x408, symBinAddr: 0x100003CC4, symSize: 0x48 }
+  - { offsetInCU: 0x1F5, offset: 0x1F5, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x450, symBinAddr: 0x100003D0C, symSize: 0x118 }
+...
