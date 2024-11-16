@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/atharvnawal/Desktop/sem3-modul 4/CGAVR/Elipse annimation/app'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _drawFilledEllipse, symObjAddr: 0x0, symBinAddr: 0x100003724, symSize: 0x4CC }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _drawSpeed, symObjAddr: 0x730, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _drawProgress, symObjAddr: 0x148C, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _xc, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0x9A, offset: 0x9A, size: 0x8, addend: 0x0, symName: _yc, symBinAddr: 0x100008014, symSize: 0x0 }
+  - { offsetInCU: 0xAF, offset: 0xAF, size: 0x8, addend: 0x0, symName: _rx, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0xC4, offset: 0xC4, size: 0x8, addend: 0x0, symName: _ry, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offsetInCU: 0xCD, offset: 0xCD, size: 0x8, addend: 0x0, symName: _drawFilledEllipse, symObjAddr: 0x0, symBinAddr: 0x100003724, symSize: 0x4CC }
+  - { offsetInCU: 0x1C3, offset: 0x1C3, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x4CC, symBinAddr: 0x100003BF0, symSize: 0x74 }
+  - { offsetInCU: 0x1D8, offset: 0x1D8, size: 0x8, addend: 0x0, symName: _updateDrawProgress, symObjAddr: 0x540, symBinAddr: 0x100003C64, symSize: 0x54 }
+  - { offsetInCU: 0x1FC, offset: 0x1FC, size: 0x8, addend: 0x0, symName: _init, symObjAddr: 0x594, symBinAddr: 0x100003CB8, symSize: 0x48 }
+  - { offsetInCU: 0x211, offset: 0x211, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5DC, symBinAddr: 0x100003D00, symSize: 0x140 }
+...
